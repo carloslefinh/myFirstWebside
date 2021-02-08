@@ -1,2 +1,2 @@
-# myFirstWebside
-This is my first webside
+# myFirstWebsite
+This is my first website
